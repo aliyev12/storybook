@@ -1,0 +1,35 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 1rem 0 !important;
+}
+
+.login-container {
+  width: 40rem;
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.fa-small {
+  font-size: 1.6rem !important;
+}
+
+.btn-float {
+  float: left;
+  margin-right: 1rem;
+}
+
+.img-small {
+  width: 18rem;
+}
